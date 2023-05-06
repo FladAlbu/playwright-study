@@ -1,0 +1,22 @@
+{
+    "success": {
+        "name": "Pular corda",
+        "is_done": false
+    },
+    "duplicate": {
+        "name": "Comprar Ketchup",
+        "is_done": false
+    },
+    "required": {
+        "name": "",
+        "is_done": false        
+    },
+    "update":{
+        "name": "Pagar a fatura da maionese",
+        "is_done": false
+    },
+    "delete":{
+        "name": "Estudar Ruby",
+        "is_done": false
+    }
+}
